@@ -2,7 +2,7 @@
 install.packages("caret")
 install.packages("ellipse")
 
-#Now, let's load the package
+#Now, let's load the package from caret library
 library(caret)
 
 #Load The Data
