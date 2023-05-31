@@ -7,9 +7,9 @@ library(caret)
 
 #Load The Data
 #Fortunately, the R platform provides the iris dataset for us
-# attach the iris dataset to the environment
+#attach the iris dataset to the environment
 data(iris)
-# rename the dataset
+# assign iris dataset to the variable dataset
 dataset <- iris
 
 
