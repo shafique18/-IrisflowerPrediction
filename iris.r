@@ -1,4 +1,4 @@
-#first install caret package for explanaton visit http://topepo.github.io/caret/index.html
+#first install caret and ellipse package for carat explanaton visit http://topepo.github.io/caret/index.html
 install.packages("caret")
 install.packages("ellipse")
 
